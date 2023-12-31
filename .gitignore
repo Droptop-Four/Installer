@@ -1,0 +1,16 @@
+*.exe
+*.patch
+*.txt
+*.user
+*.aps
+/.vs
+/ipch
+/TestBench
+/Version.cs
+/Version.h
+bin
+Certificate.bat
+Manifest.bat
+obj
+x32*
+x64*
